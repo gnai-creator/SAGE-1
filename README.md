@@ -71,7 +71,7 @@ MLP Head (classification output)
 
 | Tarefa                            | Dense | LSTM | TV5 | **SAGE-1** |
 |----------------------------------|-------|------|-----|------------|
-| Paridade Nível 85                | ✖     | ✖    | ✅  | ✅         |
+| Metaavaliação de Confiança Tempo.| ✖     | ✖    | ✅  | ✅         |
 | Contrafactual Moral              | ✖     | ✖    | ✅  | ✅         |
 | Raciocínio Ético Temporal        | ✖     | ✖    | ⚠️ | ✅         |
 | Metaética com múltiplas ações    | ✖     | ✖    | ✖  | ⚠️         |
