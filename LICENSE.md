@@ -1,5 +1,5 @@
 # LICENSE.md  
-**SAGE-1: Symbolic-Autonomous General Engine, v1**  
+**SAGE-1: Symbolic Adaptive General Engine, v1**  
 © 2025 Felipe Maya Muniz (rahtomaya@gmail.com) – Todos os direitos reservados.
 
 ---
